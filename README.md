@@ -11,7 +11,7 @@ Hope you like it! :)
 
 social:
 
-email: contactpathfibdr.io@gmail.com
+email: contactpathfindr.io@gmail.com
 instagram: alexsdiabolicalworld
 
 
